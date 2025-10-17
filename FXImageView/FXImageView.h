@@ -64,3 +64,5 @@
 
 
 #pragma GCC diagnostic pop
+
+#import "UIImage+FX.h"
